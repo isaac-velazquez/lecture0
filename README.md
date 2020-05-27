@@ -1,2 +1,2 @@
-# lecture0
+# Lecture 0 #
 CS50 Course
